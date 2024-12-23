@@ -49,12 +49,6 @@
       "owner": "platformio",
       "version": "~6.61700.0"
     },
-    "framework-arduinoadafruitnrf52": {
-      "type": "framework",
-      "optional": true,
-      "owner": "platformio",
-      "version": "~1.10500.0"
-    },
     "framework-arduinoadafruitnrf52-seeed": {
       "type": "framework",
       "optional": true,
