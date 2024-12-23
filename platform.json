@@ -59,7 +59,7 @@
       "type": "framework",
       "optional": true,
       "owner": "platformio",
-      "version": "C:\temp\nrfseeed"
+      "version": "https://github.com/klingenbergh/platform-nordicnrf52-seeed"
     },
     "framework-arduinonordicnrf5": {
       "type": "framework",
