@@ -153,7 +153,7 @@ if "nrfutil" == upload_protocol or (
                             '"$PYTHONEXE"',
                             '"%s"' % join(
                                 platform.get_package_dir(
-                                    "framework-arduinoadafruitnrf52"
+                                    "framework-arduinoadafruitnrf52-seeed"
                                 )
                                 or "",
                                 "tools",
