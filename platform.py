@@ -39,10 +39,10 @@ class Nordicnrf52Platform(PlatformBase):
                                             "nrf5") == "adafruit":
                 if board in ("xiaoblesense_adafruit", "xiaoble_adafruit"):
                     self.frameworks["arduino"][
-                        "package"] = "framework-arduinoadafruitnrf52-seeed-2"
+                        "package"] = "framework-arduinoadafruitnrf52-seeed"
                 else:
                     self.frameworks["arduino"][
-                        "package"] = "framework-arduinoadafruitnrf52-seeed-2"
+                        "package"] = "framework-arduinoadafruitnrf52-seeed"
                 self.packages["framework-cmsis"]["optional"] = False
                 self.packages["tool-adafruit-nrfutil"]["optional"] = False
 
