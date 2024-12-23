@@ -21,7 +21,7 @@
   "version": "10.1.0",
   "frameworks": {
     "arduino": {
-      "package": "framework-arduinonordicnrf5",
+      "package": "framework-arduinonordicnrf5-seeed",
       "script": "builder/frameworks/arduino.py"
     },
     "mbed": {
